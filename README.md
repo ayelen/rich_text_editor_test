@@ -32,10 +32,6 @@ Includes extended functionality such as:
    ```
 
 2. Install dependencies:
-   ```npm install
-
-   ```
+   `npm install`
 3. Run
-   ```npm run dev
-
-   ```
+   `npm run dev`
