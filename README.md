@@ -24,12 +24,7 @@ Includes extended functionality such as:
 
 ## 📦 Setup
 
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/your-username/vue3-tiptap-editor.git
-   cd vue3-tiptap-editor
-   ```
+1. Clone the repo
 
 2. Install dependencies:
    `npm install`
