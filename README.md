@@ -1,41 +1,41 @@
-# rich_text_editor_test
+# Vue 3 Rich Text Editor with Tiptap
 
-This template should help get you started developing with Vue 3 in Vite.
+A customizable rich text editor built with **Vue 3**, **Tiptap**, and **Vue I18n**.  
+Includes extended functionality such as:
 
-## Recommended IDE Setup
+✅ Bold, italic  
+✅ Bullet and numbered lists  
+✅ Text alignment (left, center, right)  
+✅ Insert images via URL  
+✅ Insert and edit hyperlinks  
+✅ Font size selection  
+✅ Multi-language support (i18n ready)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Vue 3](https://vuejs.org/)
+- [Tiptap](https://tiptap.dev/)
+- [Vue I18n](https://vue-i18n.intlify.dev/)
+- [Tiptap Extensions](https://tiptap.dev/api/extensions/overview)
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+## 📦 Setup
 
-### Compile and Hot-Reload for Development
+1. Clone the repo:
 
-```sh
-npm run dev
-```
+   ```bash
+   git clone https://github.com/your-username/vue3-tiptap-editor.git
+   cd vue3-tiptap-editor
+   ```
 
-### Compile and Minify for Production
+2. Install dependencies:
+   ```npm install
 
-```sh
-npm run build
-```
+   ```
+3. Run
+   ```npm run dev
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+   ```
